@@ -1,4 +1,6 @@
 <h1>HTML & CSS PROJECTS<h1>
+<hr>
+<h2>Get Started</h2>
 <p>If you want to feel confident in your front-end web developer skills, the easiest solution is to start building your own HTML and CSS projects from scratch.</p>
 <p>As with any other skill, practicing on simple, realistic projects helps you build your skills and confidence step-by-step.</p>
 <p>In this directory are some of the projects I worked on when learning HTML and CSS. Hope they'll help you too!:)</p>
