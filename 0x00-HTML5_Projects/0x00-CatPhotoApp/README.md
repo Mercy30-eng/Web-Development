@@ -1,5 +1,5 @@
 <h1>Cat Photo App<h1>
-This is a freecodecamp.org project for learning HTML for beginners by building a Cat Photo App.
+<h2>This is a freecodecamp.org project for learning HTML for beginners by building a Cat Photo App.</h2>
 <h3>Try it out here:</h3>
   <p>FreeCodeCamp Project</p>
 <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app">Cat-Photo-App</a>
