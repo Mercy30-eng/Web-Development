@@ -1,15 +1,15 @@
 # How to Use package.json
 <hr>
-## What is package.json?
-The `package.json` file is the center of any Node.js project or npm package. 
+<h2>What is package.json?</h2>
+<p></p>The `package.json` file is the center of any Node.js project or npm package. 
 It stores information about your project. 
 It consists of a single JSON object where information is stored in key-value pairs. 
-There are only two required fields; `name` and `version`, but it’s good practice to provide additional information
+There are only two required fields; `name` and `version`, but it’s good practice to provide additional information</p>
 
 ### How to create a package.json file form the terminal
 - Use `npm init` command: this will run a giuded setup.
 - Using `npm init -y` will generate the file with having it ask any questions.
-- 
+  
 ### author field
 - This is one of the most common pieces of information in the `package.json` file.
 - It specifies who created the project, and can consist of a string or an object with contact or other details.
