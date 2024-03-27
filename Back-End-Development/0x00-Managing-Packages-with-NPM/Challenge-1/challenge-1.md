@@ -4,7 +4,7 @@
 <p>The <i>package.json</i> file is the center of any Node.js project or npm package. 
 It stores information about your project. 
 It consists of a single JSON object where information is stored in key-value pairs. 
-There are only two required fields; <i>name</p>i> and <i>version</i>, but it’s good practice to provide additional information</p>
+There are only two required fields; <i>name<i> and <i>version</i>, but it’s good practice to provide additional information</p>
 
 ### How to create a package.json file form the terminal
 - Use `npm init` command: this will run a giuded setup.
