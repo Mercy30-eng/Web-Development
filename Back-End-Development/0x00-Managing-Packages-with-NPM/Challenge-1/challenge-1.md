@@ -7,7 +7,7 @@ It consists of a single JSON object where information is stored in key-value pai
 There are only two required fields; <i>name</i> and <i>version</i>, but it’s good practice to provide additional information</p>
 
 ### How to create a package.json file from the terminal
-- Use `npm init` command: this will run a giuded setup.
+- Use `npm init` command: this will run a guided setup.
 - Using `npm init -y` will generate the file with having it ask any questions.
   
 ### author field
