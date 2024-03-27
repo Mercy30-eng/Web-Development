@@ -10,9 +10,9 @@ There are only two required fields; <i>name</i> and <i>version</i>, but it’s g
 - Use `npm init` command: this will run a guided setup.
 - Using `npm init -y` will generate the file with having it ask any questions.
   #### Install Node.js and npm first
-  - First, update your package manager with sudo apt-get update.
-  - Then, install Node.js and npm with sudo apt-get install nodejs npm.
-  - To ensure you have the latest version, you can update npm by running npm install -g npm.
+  - First, update your package manager with `sudo apt-get update`.
+  - Then, install Node.js and npm with `sudo apt-get install nodejs npm`.
+  - To ensure you have the latest version, you can update npm by running `npm install -g npm`.
   
 ### author field
 - This is one of the most common pieces of information in the `package.json` file.
