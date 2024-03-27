@@ -20,7 +20,7 @@
 ### Challenge-1-Task
 - Add your name as the `author` of the project in the `package.json` file.
 
-####NOTE: Remember that you’re writing JSON, so all field names must use double-quotes (") and be separated with a comma (,).
+#### NOTE: Remember that you’re writing JSON, so all field names must use double-quotes (") and be separated with a comma (,).
 <hr>
 
 `HINTS`
