@@ -1,6 +1,6 @@
 # How to Use package.json
 <hr>
-### What is package.json?
+## What is package.json?
 - The `package.json` file is the center of any Node.js project or npm package. 
 - It stores information about your project. 
 - It consists of a single JSON object where information is stored in key-value pairs. 
