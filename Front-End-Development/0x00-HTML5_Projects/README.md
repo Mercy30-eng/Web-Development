@@ -10,5 +10,5 @@
 		<li>Comments on every line of code to help you understand the syntax better
 	</ul>
 <p>To learn everything about the HTML5 syntax, visit: <a href="https://www.w3schools.com/html/default.asp">w3schools.com</a> and <a href="https://www.w3resource.com/html-css-exercise/">w3resource.com</p>
-Happy Coding!
-===================================================================
+<hr>
+Happy Coding! :smiley:
